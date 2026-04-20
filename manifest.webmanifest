@@ -1,0 +1,21 @@
+{
+  "name": "Portal Institucional de Estoque - PMRG",
+  "short_name": "Estoque PMRG",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#EEF3F8",
+  "theme_color": "#123B6D",
+  "description": "Sistema institucional de estoque com Google Sheets, filtros, dashboard e PWA.",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
